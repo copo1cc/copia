@@ -1,0 +1,15 @@
+Q: What is a blockchain?
+A: A blockchain is a decentralized digital ledger that records transactions across many computers.
+
+Q: What is Bitcoin?
+A: Bitcoin is the first and most well-known cryptocurrency, created by Satoshi Nakamoto in 2009.
+
+Q: How does mining work in crypto?
+A: Mining is the process of validating transactions and adding them to the blockchain in exchange for rewards.
+
+Q: What is a smart contract?
+A: A smart contract is a self-executing contract with the terms directly written into code, deployed on a blockchain.
+
+Q: What is the difference between a coin and a token?
+A: A coin operates on its own blockchain, while a token is built on top of another blockchain.
+
